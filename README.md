@@ -1,1 +1,1 @@
-Parallel implementation of a Illumina short read QC pipeline
+Parallel implementation of an Illumina short read QC pipeline
